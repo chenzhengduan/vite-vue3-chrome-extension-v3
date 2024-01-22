@@ -20,7 +20,6 @@ A [Vite](https://vitejs.dev/) powered WebExtension ([Chrome](https://developer.c
 - [CRXJS Vite Plugin](https://crxjs.dev/vite-plugin) Build a Chrome Extension with Vite
 
 ## Pre-packed
-
 ### WebExtension Libraries
 
 - [`webext-bridge`](https://github.com/zikaari/webext-bridge) - effortlessly communication between contexts
