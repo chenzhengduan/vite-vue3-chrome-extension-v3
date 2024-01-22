@@ -48,7 +48,6 @@ A [Vite](https://vitejs.dev/) powered WebExtension ([Chrome](https://developer.c
 ## Use the Template
 
 ### GitHub Template
-
 [Create a repo from this template on GitHub](https://github.com/mubaidr/vite-vue3-chrome-extension-v3/generate).
 
 ### Clone to local
